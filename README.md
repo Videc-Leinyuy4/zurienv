@@ -1,0 +1,2 @@
+# zurienv
+ Django Project
